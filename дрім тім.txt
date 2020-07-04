@@ -1,115 +1,119 @@
-<!DOCTYPE html>
 <html lang="uk">
+<h1>Блогери-тіктокери Dream Team House</h1>
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Блогери-тіктокери Dream Team House</title>
-    <link rel="stylesheet" href="style.css">
-</head>
+    <title>Radmir RP</title>
+    <link rel="stylesheet" href="style.css"><div class="container">
+<img src="fotka_dlia_saita.jpg" alt="Notebook" style="width:100%;">
+<div class="content">
+<h1>Heading</h1>
+<p>Lorem ipsum..</p>
+</div>
+</div>
+  </head>
   <body>
+    <article>
+      <header>
+        <p class="a"><strong>В чому інтерес цієї ігри?</strong></p>
+      </header>
+         <p class="b" style="color:brown">Я підписана команду тіктокерів у TikTok які зібрались і живуть в одному будинкутам є:
+         Діана(2 Фото)
+         Даня(3 фото)
+         Артур(4 фото)
+         Аня(5 фото)
+         Саша(6 фото)
+         Маха(7 фото)
+         Олег(8 фото)
+         Маруся(9 фото)
+         Влад(10 фото)
+         Настя(11 фото)
+         і теж Настя(12 фото)
+         Артем(13 фото)
+         у них є ще один учасник але він тільки недаво прийшов в коанду тому його фотографій немає</p>
+        <p class="c"><strong>Їхні фото)))</strong></p>
 
-  <h1 class="mainheader">Блогери-тіктокери Dream Team House</h1>
-<p class="b">Я підписана у команду тіктокерів TikTok які зібрались і живуть в одному будинку там є:
-<ul class="ul">
-  <li>Діана(2 Фото),</li>
-  <li>Даня(3 фото),</li>
-  <li>Артур(4 фото),</li>
-  <li>Аня(5 фото),</li>
-  <li>Саша(6 фото),</li>
-  <li>Маха(7 фото),</li>
-  <li>Олег(8 фото),</li>
-  <li>Маруся(9 фото),</li>
-  <li>Влад(10 фото),</li>
-  <li>Настя(11 фото)</li>
-  <li>і теж Настя(12 фото),</li>
-  <li>Артем(13 фото)</li>
-</ul>
-        <p class="b"> у них є ще один учасник але він тільки недаво прийшов в команду тому його фотографій немає <strong>Їхні фото)))</strong></p>
-<!-- Slideshow container -->
-<div class="slideshow-container">
- <!-- Full-width images with number and caption text -->
   <div class="mySlides fade" style="display: none;">
-    <div class="numbertext">1 / 14</div>
-    <img src="img/drim-tim-haus-biografiya-uchastniki-novosti-i-fakty.jpg" style="width:100%">
-    <div class="text">Фото загальне</div>
+    <div class="numbertext">2 / 14</div>
+    <img src="img/drim-tim-haus-biografiya-uchastniki-novosti-i-fakty.jpg" height="240">
+    <div class="text">Фото перше</div>
   </div>
 
 <div class="mySlides fade" style="display: none;">
     <div class="numbertext">2 / 14</div>
-    <img src="img/diana.jpg" style="width:100%">
-    <div class="text">Діана</div>
+    <img src="img/diana.jpg" height="240">
+    <div class="text">Фото друге</div>
   </div>
 
   <div class="mySlides fade" style="display: none;">
     <div class="numbertext">3 / 14</div>
-    <img src="img/dania.jpeg" style="width:100%">
-	<div class="text">Даня</div>
+    img src="img/dania.jpeg" height="240">
   </div>
 
   <div class="mySlides fade" style="display: none;">
     <div class="numbertext">4/ 14</div>
-    <img src="img/artyr.jpg"  style="width:100%">
-    <div class="text">Артур</div>
+    <img src="img/artyr.jpg"  height="240">
+    <div class="text">Фото четверте</div>
   </div>
 
   <div class="mySlides fade" style="display: none;">
     <div class="numbertext">5/ 14</div>
-    <img src="img/anya.jpeg"  style="width:100%">
-    <div class="text">Аня</div>
+    <img src="img/anya.jpeg"  height="240">
+    <div class="text">Фото п'яте</div>
   </div>
 
   <div class="mySlides fade" style="display: none;">
     <div class="numbertext">6/ 14</div>
-    <img src="img/sasha.jpg"  style="width:100%">
-    <div class="text">Саша</div>
+    <img src="img/sasha.jpg"  height="240">
+    <div class="text">Фото шосте</div>
   </div>
   <div class="mySlides fade" style="display: none;">
     <div class="numbertext">7/ 14</div>
-    <img src="img/maha.jpg"  style="width:100%">
-    <div class="text">Маха</div>
+    <img src="img/maha.jpg"  height="240">
+    <div class="text">Фото сьоме</div>
   </div>
   <div class="mySlides fade" style="display: none;">
     <div class="numbertext">8/ 14</div>
-    <img src="img/oleg.jpg"  style="width:100%">
-    <div class="text">Олег</div>
+    <img src="img/oleg.jpg"  height="240">
+    <div class="text">Фото восьме</div>
   </div>
 
   <div class="mySlides fade" style="display: none;">
-    <div class="numbertext">9/ 14</div>
-    <img src="img/marusya.jpg"  style="width:100%">
-    <div class="text">Маруся</div>
+    <div class="numbertext">9/ 114</div>
+    <img src="img/marusya.jpg"  height="240">
+    <div class="text">Фото восьме</div>
   </div>
 
   <div class="mySlides fade" style="display: none;">
     <div class="numbertext">10/ 14</div>
-    <img src="img/vlad.jpg"  style="width:100%">
-    <div class="text">Влад</div>
+    <img src="img/vlad.jpg"  height="240">
+    <div class="text">Фото восьме</div>
   </div>
 
   <div class="mySlides fade" style="display: none;">
     <div class="numbertext">11/ 14</div>
-    <img src="img/nastya.jpg"  style="width:100%">
-    <div class="text">Настя</div>
+    <img src="img/nastya.jpg"  height="240">
+    <div class="text">Фото восьме</div>
   </div>
 
   <div class="mySlides fade" style="display: none;">
     <div class="numbertext">12/ 14</div>
-    <img src="img/nastya02.jpg"  style="width:100%">
-    <div class="text">Настя</div>
+    <img src="img/nastya02.jpg"  height="240">
+    <div class="text">Фото восьме</div>
   </div>
 
   <div class="mySlides fade" style="display: none;">
     <div class="numbertext">13/ 14</div>
-    <img src="img/artem.jpg"  style="width:100%">
-    <div class="text">Артем</div>
+    <img src="img/artem.jpg"  height="240">
+    <div class="text">Фото восьме</div>
   </div>
 
   <div class="mySlides fade" style="display: none;">
     <div class="numbertext">14/ 14</div>
-    <img src="img/logo.jpg"  style="width:100%">
-    <div class="text">Фото 14</div>
+    <img src="img/nik.jpg"  height="240">
+    <div class="text">Фото восьме</div>
   </div>
-   
+  
   <!-- Next and previous buttons -->
   <a class="prev" onclick="plusSlides(-1)">❮</a>
   <a class="next" onclick="plusSlides(1)">❯</a>
@@ -132,7 +136,6 @@
   <span class="dot" onclick="currentSlide(13)"></span>
   <span class="dot" onclick="currentSlide(14)"></span>
 </div>
-
 <script>
   var slideIndex = 1;
   showSlides(slideIndex);
@@ -161,4 +164,5 @@
     dots[slideIndex-1].className += " active";
   }
   </script> 
+   </article>
   </body></html>
