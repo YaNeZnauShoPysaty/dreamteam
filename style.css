@@ -2,7 +2,7 @@
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 600px;
   position: relative;
   margin: auto;
 }
@@ -103,7 +103,12 @@ font-weight: bold;
     font-weight: normal;
     opacity: 0.7;
 	color: #6F3E15;
+	margin-bottom: 15px;
 }
 .ul {
-	font-size: 18px;
+	padding-left: 26px;
+	font-size: 22px;
+	line-height: 1.6;
+	font-weight: bold;
+	color: #AC3E23;
 }
