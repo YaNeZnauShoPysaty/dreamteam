@@ -110,5 +110,9 @@ font-weight: bold;
 	font-size: 22px;
 	line-height: 1.6;
 	font-weight: bold;
-	color: #AC3E23;
+	color: rgb(0, 0, 0)
+}
+
+.bg {
+  height: 50%;
 }
